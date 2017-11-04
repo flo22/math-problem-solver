@@ -1,5 +1,5 @@
 # mathproblemsolver
-find the right operations (e.g. 2 _ 2 _ 2 = 8 -> [ * , * ])
+Find the fitting operators (e.g. 2 _ 2 _ 2 = 8 -> [ * , * ])
 
 Maybe helpful for some assessment center tasks.
 
